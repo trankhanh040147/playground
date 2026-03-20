@@ -1,0 +1,1272 @@
+                    ns    total     read    write    2026-03-20T16:23:09+07:00
+   stress_db.test_data    310ms    211ms     98ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:10+07:00
+   stress_db.test_data    342ms    234ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:11+07:00
+   stress_db.test_data    360ms    247ms    113ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:12+07:00
+   stress_db.test_data    342ms    235ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:13+07:00
+   stress_db.test_data    346ms    237ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:14+07:00
+   stress_db.test_data    342ms    235ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:15+07:00
+   stress_db.test_data    349ms    240ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:16+07:00
+   stress_db.test_data    362ms    248ms    114ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:17+07:00
+   stress_db.test_data    338ms    233ms    105ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:18+07:00
+   stress_db.test_data    347ms    240ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:19+07:00
+   stress_db.test_data    347ms    237ms    109ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:20+07:00
+   stress_db.test_data    348ms    238ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:21+07:00
+   stress_db.test_data    337ms    230ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:22+07:00
+   stress_db.test_data    327ms    225ms    101ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:23+07:00
+   stress_db.test_data    345ms    236ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:24+07:00
+   stress_db.test_data    340ms    234ms    105ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:25+07:00
+   stress_db.test_data    342ms    235ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:26+07:00
+   stress_db.test_data    352ms    241ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:27+07:00
+   stress_db.test_data    340ms    233ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:28+07:00
+   stress_db.test_data    351ms    240ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:29+07:00
+   stress_db.test_data    351ms    240ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:30+07:00
+   stress_db.test_data    345ms    236ms    109ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:31+07:00
+   stress_db.test_data    376ms    257ms    119ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:32+07:00
+   stress_db.test_data    350ms    239ms    111ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:33+07:00
+   stress_db.test_data    363ms    248ms    114ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:34+07:00
+   stress_db.test_data    339ms    232ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:35+07:00
+   stress_db.test_data    353ms    242ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:36+07:00
+   stress_db.test_data    350ms    242ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:37+07:00
+   stress_db.test_data    348ms    240ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:38+07:00
+   stress_db.test_data    341ms    237ms    104ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:39+07:00
+   stress_db.test_data    343ms    234ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:40+07:00
+   stress_db.test_data    348ms    240ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:41+07:00
+   stress_db.test_data    340ms    233ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:42+07:00
+   stress_db.test_data    343ms    236ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:43+07:00
+   stress_db.test_data    347ms    240ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:44+07:00
+   stress_db.test_data    339ms    233ms    105ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:45+07:00
+   stress_db.test_data    343ms    236ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:46+07:00
+   stress_db.test_data    331ms    228ms    102ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:47+07:00
+   stress_db.test_data    331ms    229ms    101ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:48+07:00
+   stress_db.test_data    334ms    230ms    103ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:49+07:00
+   stress_db.test_data    328ms    228ms    100ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:50+07:00
+   stress_db.test_data    337ms    234ms    102ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:51+07:00
+   stress_db.test_data    340ms    235ms    105ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:52+07:00
+   stress_db.test_data    336ms    233ms    103ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:53+07:00
+   stress_db.test_data    340ms    235ms    104ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:54+07:00
+   stress_db.test_data    336ms    228ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:55+07:00
+   stress_db.test_data    342ms    235ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:56+07:00
+   stress_db.test_data    346ms    237ms    109ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:57+07:00
+   stress_db.test_data    343ms    235ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:58+07:00
+   stress_db.test_data    349ms    240ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:23:59+07:00
+   stress_db.test_data    331ms    229ms    102ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:00+07:00
+   stress_db.test_data    330ms    225ms    104ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:01+07:00
+   stress_db.test_data    339ms    232ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:02+07:00
+   stress_db.test_data    340ms    233ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:03+07:00
+   stress_db.test_data    343ms    235ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:04+07:00
+   stress_db.test_data    349ms    238ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:05+07:00
+   stress_db.test_data    361ms    248ms    113ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:06+07:00
+   stress_db.test_data    341ms    234ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:07+07:00
+   stress_db.test_data    341ms    234ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:08+07:00
+   stress_db.test_data    448ms    234ms    214ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:09+07:00
+   stress_db.test_data    353ms    241ms    112ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:10+07:00
+   stress_db.test_data    352ms    243ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:11+07:00
+   stress_db.test_data    360ms    252ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:12+07:00
+   stress_db.test_data    349ms    237ms    111ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:13+07:00
+   stress_db.test_data    342ms    234ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:14+07:00
+   stress_db.test_data    344ms    236ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:15+07:00
+   stress_db.test_data    333ms    230ms    103ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:16+07:00
+   stress_db.test_data    334ms    230ms    103ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:17+07:00
+   stress_db.test_data    348ms    239ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:18+07:00
+   stress_db.test_data    333ms    229ms    103ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:19+07:00
+   stress_db.test_data    340ms    235ms    104ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:20+07:00
+   stress_db.test_data    345ms    238ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:21+07:00
+   stress_db.test_data    347ms    240ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:22+07:00
+   stress_db.test_data    335ms    231ms    103ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:23+07:00
+   stress_db.test_data    332ms    228ms    103ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:24+07:00
+   stress_db.test_data    330ms    226ms    104ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:25+07:00
+   stress_db.test_data    339ms    233ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:26+07:00
+   stress_db.test_data    340ms    235ms    105ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:27+07:00
+   stress_db.test_data    346ms    239ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:28+07:00
+   stress_db.test_data    360ms    247ms    113ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:29+07:00
+   stress_db.test_data    351ms    240ms    111ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:30+07:00
+   stress_db.test_data    356ms    243ms    112ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:31+07:00
+   stress_db.test_data    351ms    240ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:32+07:00
+   stress_db.test_data    364ms    249ms    114ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:33+07:00
+   stress_db.test_data    346ms    238ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:34+07:00
+   stress_db.test_data    354ms    243ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:35+07:00
+   stress_db.test_data    350ms    240ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:36+07:00
+   stress_db.test_data    346ms    237ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:37+07:00
+   stress_db.test_data    340ms    236ms    104ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:38+07:00
+   stress_db.test_data    347ms    240ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:39+07:00
+   stress_db.test_data    338ms    232ms    105ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:40+07:00
+   stress_db.test_data    345ms    237ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:41+07:00
+   stress_db.test_data    345ms    237ms    107ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:42+07:00
+   stress_db.test_data    338ms    231ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:43+07:00
+   stress_db.test_data    348ms    240ms    108ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:44+07:00
+   stress_db.test_data    348ms    238ms    110ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:45+07:00
+   stress_db.test_data    343ms    237ms    105ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:46+07:00
+   stress_db.test_data    335ms    231ms    104ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:47+07:00
+   stress_db.test_data    338ms    232ms    105ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:48+07:00
+   stress_db.test_data    341ms    234ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:49+07:00
+   stress_db.test_data    343ms    236ms    106ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:50+07:00
+   stress_db.test_data    334ms    229ms    104ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:51+07:00
+   stress_db.test_data    331ms    230ms    100ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:52+07:00
+   stress_db.test_data    332ms    229ms    103ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:53+07:00
+   stress_db.test_data    335ms    232ms    103ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
+                    ns    total     read    write    2026-03-20T16:24:54+07:00
+   stress_db.test_data    331ms    227ms    104ms                             
+        admin.atlascli      0ms      0ms      0ms                             
+    admin.system.roles      0ms      0ms      0ms                             
+    admin.system.users      0ms      0ms      0ms                             
+  admin.system.version      0ms      0ms      0ms                             
+config.system.sessions      0ms      0ms      0ms                             
+   config.transactions      0ms      0ms      0ms                             
+         db_test.class      0ms      0ms      0ms                             
+         db_test.users      0ms      0ms      0ms                             
+  local.system.replset      0ms      0ms      0ms                             
+
