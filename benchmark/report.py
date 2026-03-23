@@ -137,10 +137,10 @@ def parse_mongostat(path: Path) -> list[dict]:
                     "command_local": int(parts[5].split("|")[0].lstrip("*")),
                     "dirty_percent": parse_percent(parts[6]) or 0.0,
                     "used_percent": parse_percent(parts[7]) or 0.0,
-                    "net_in_kib": parse_mongostat_bytes(parts[10]),
-                    "net_out_kib": parse_mongostat_bytes(parts[11]),
-                    "connections": int(parts[12]),
-                    "timestamp": " ".join(parts[13:]),
+                    "net_in_kib": parse_mongostat_bytes(parts[13]),
+                    "net_out_kib": parse_mongostat_bytes(parts[14]),
+                    "connections": int(parts[15]),
+                    "timestamp": " ".join(parts[16:]),
                 }
             )
         except (ValueError, IndexError):
