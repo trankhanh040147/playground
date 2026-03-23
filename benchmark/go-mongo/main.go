@@ -48,7 +48,7 @@ func printTotalRecordInserted(ctx context.Context, coll *mongo.Collection) {
 }
 
 func main() {
-	ctx, cancel := context.WithTimeout(context.Background(), 2*time.Minute)
+	ctx, cancel := context.WithTimeout(context.Background(), 3*time.Minute)
 	defer cancel()
 
 	// Thiết lập connection pool lớn hơn mặc định để chịu tải
