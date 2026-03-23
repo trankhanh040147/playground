@@ -42,4 +42,12 @@ Python benchmark runner:
 Go benchmark runner:
 - `cd benchmark/go-mongo && ./bench_mongo.sh`
 
-The Go runner writes logs under `benchmark/benchmark_logs/go-mongo/<timestamp>/`.
+Both runners now write every artifact for a run into a single timestamped directory under `benchmark/benchmark_logs/`, including:
+- `benchmark_output.log`
+- `docker_stats.log`
+- `mongostat.log`
+- `mongotop.log`
+- `report.html`
+- `report.json`
+
+Each run generates a self-contained HTML report with summary cards, charts, parsed metrics, and the raw benchmark output for easier inspection.
